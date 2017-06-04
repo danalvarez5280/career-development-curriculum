@@ -1,4 +1,3 @@
-Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. 
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo with Travis Rollins [Idea-Box DTR](https://gist.github.com/danalvarez5280/3d7b3222b4f78668ec353efc1677cd57)
